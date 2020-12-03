@@ -35,3 +35,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Methods loosely
+
+## Test-driven development
+https://en.wikipedia.org/wiki/Test-driven_development
+1. write a test
+2. run all tests and see this test fail
+3. write the code
+4. run all tests
+5. refactor some code
+6. (4.) run all tests again
+7. commit
+
+![Image of TDD](https://en.wikipedia.org/wiki/Test-driven_development#/media/File:TDD_Global_Lifecycle.png)
