@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Test-driven_development
 6. (4.) run all tests again
 7. commit
 
-![Image of TDD](https://en.wikipedia.org/wiki/Test-driven_development#/media/File:TDD_Global_Lifecycle.png)
+![TDD](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TDD_Global_Lifecycle.png/1920px-TDD_Global_Lifecycle.pngg)
 
 ## MVP
 
