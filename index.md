@@ -1,40 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to the pot of tricks
 
-You can use the [editor on GitHub](https://github.com/flowxcode/devgimmickry/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flowxcode/devgimmickry/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is a loosley collection of methods to select when starting a dev project..
 
 # Methods loosely
 
@@ -49,3 +15,14 @@ https://en.wikipedia.org/wiki/Test-driven_development
 7. commit
 
 ![Image of TDD](https://en.wikipedia.org/wiki/Test-driven_development#/media/File:TDD_Global_Lifecycle.png)
+
+## MVP
+
+## Extreme Programming XP
+"Is it possible to write a clear code quickly? The answer is yes, according to XP practitioners. The quality of software derives from short development cycles that, in turn, allow for receiving frequent feedback. And valuable feedback comes from good testing. XP teams practice test-driven development technique (TTD) that entails writing an automated unit test before the code itself."
+https://hackernoon.com/extreme-programming-values-principles-and-practices-6d270957fef7
+
+## misc
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+edit: https://github.com/flowxcode/devgimmickry/edit/gh-pages/index.md
+see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
