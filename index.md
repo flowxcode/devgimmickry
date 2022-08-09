@@ -26,6 +26,12 @@ https://hackernoon.com/extreme-programming-values-principles-and-practices-6d270
 ## misc
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Tools
+
+## Draw io now app.diagrams.net
+perfect drawing tool can be integrated in everyting and should be used in every feature to VISUALIZE what and how you do!
+https://app.diagrams.net/
+
 edit: https://github.com/flowxcode/devgimmickry/edit/gh-pages/index.md
 
 see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
